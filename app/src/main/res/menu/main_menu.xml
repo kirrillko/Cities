@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_all"
+        android:title="Все" />
+    <item
+        android:id="@+id/item_city"
+        android:title="Город" />
+    <item
+        android:id="@+id/item_category"
+        android:title="Категория" />
+    <item
+        android:id="@+id/item_filter"
+        android:title="Фильтрация" />
+    <item
+        android:id="@+id/item_favorite"
+        android:title="Избранное" />
+</menu>
